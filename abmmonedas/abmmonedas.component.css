@@ -1,0 +1,19 @@
+body {
+    background: url("../imagen.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+label {
+    font-weight: bolder;
+    color: white; 
+}
+div {
+    transform: translate(2%,+12%);
+}
+input {
+    margin-top:65vh;
+    
+}
+
